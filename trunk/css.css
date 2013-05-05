@@ -1,0 +1,52 @@
+﻿* {
+        				margin: 0;
+        				padding: 0;
+        				font-family: "Comic Sans MS";
+        }
+        .kenarlik {
+        				border-style: double;
+        				border-color: orange;
+        				border-width: 1px;
+        				padding: 5px;
+        				background: silver;
+                        border-radius: 10px;
+        }
+        .anadolgu {
+        				font-family: "Comic Sans MS";
+        				font-size: 3em;
+        				width: 600px;
+        				margin: 20px;
+        }
+        .dolgu {
+        				text-align: center;
+        				background: teal;
+        				padding: 5px;
+        				color: #C7FF35;
+                        border-radius: 10px;
+        }
+        .menu{
+        }
+        .oge {
+        				margin-top: 5px;
+        				background: #99CCFF;
+        }
+        .oge ul{
+        				list-style-type:none;
+        }
+        .oge ul li{
+        			border: thin gray outset;
+                    border-radius: 10px;}
+        .icerik {
+        				text-align: left;
+        				padding-left: 10px;
+                        display: 
+        }
+        
+         input[type="submit"]{
+            
+            padding: 5px;
+            width: 100px;
+            color: red;
+            background: yellow;
+            font-weight: bolder;
+        }
